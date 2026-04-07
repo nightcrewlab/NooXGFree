@@ -20,7 +20,7 @@ Your support helps keep development going 🚀
 > Bu repo şu an “unpacked/klasör olarak yükleme” şeklinde kullanıma uygundur.  
 > Eğer GitHub Releases kullanıyorsan aşağıdaki linki kendi repo adresinle güncelleyebilirsin.
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge)](https://github.com/](https://github.com/nightcrewlab/NooXGFree/releases/latest))
+[![Download Latest](https://img.shields.io/github/v/release/nightcrewlab/NooXGFree?label=Download-Latest-orange?style=for-the-badge)](https://github.com/](https://github.com/nightcrewlab/NooXGFree/releases/latest))
 
 ---
 
